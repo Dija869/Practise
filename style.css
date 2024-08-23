@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+
+/* --- hero section ---  */
+.section1{
+    width: 100vw;
+    height: 100%;
+}
+.section1-main{
+    display: flex;
+}
+.section1-right{
+    text-align: center;
+    margin: auto;
+}
+#veg-image{
+    width:600px;
+height: 500px;
+
+}
+ button{
+    margin-top: 30px;
+    margin-left: 10px;
+ }
+h1{
+    font-weight: bolder;
+}
+ 
+/* --- section 2 ---  */
+.section2-top , .section2-center , .section3-top , .section3-bottom , .section4-top , .section4-center , .section4-bottom{
+    text-align: center;
+    margin-top: 20px;
+}
+/* ---- section 3 ----  */
+.section3-box{
+    display: flex;
+}
+.card-img-top{
+ height:180px;
+ width: 120px ;
+ margin:auto;
+} 
+.button {
+    align-self: center !important;
+}
+
+/* --- section4 --  */
+.section4{
+    background-color: #F9F9F9;
+    
+}
